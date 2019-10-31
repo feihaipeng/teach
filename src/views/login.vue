@@ -9,7 +9,7 @@ export default {
   name: 'mine',
   data () {
     return {
-      name: '天信云工业互联网平台'
+      name: '教学系统'
     }
   },
   mounted () {
